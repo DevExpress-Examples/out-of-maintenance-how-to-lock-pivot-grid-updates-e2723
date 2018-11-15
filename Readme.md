@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraPivotGrid_BeginEndUpdate/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGrid_BeginEndUpdate/Form1.vb))
+* [Program.cs](./CS/XtraPivotGrid_BeginEndUpdate/Program.cs) (VB: [Program.vb](./VB/XtraPivotGrid_BeginEndUpdate/Program.vb))
+<!-- default file list end -->
 # How to lock pivot grid updates
 
 
